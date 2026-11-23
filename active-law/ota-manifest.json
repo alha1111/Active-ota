@@ -1,7 +1,7 @@
 {
   "version": "3.5",
   "url": "https://raw.githubusercontent.com/alha1111/Active-ota/main/active-law/active-law-ota.zip",
-  "sha256": "e5b98cef1edd6a1c1ed0cd10d0b86fd69c690a768192a2dce034026fe3bccee3",
-  "signature": "xXIR/IoG+3tNPChwpp1VMY35EtNuFPB016NLVlGrU/KwWlpnVAYRgns0Kn8Gr1gKnc9r5tJaLhfyUxwpd63UzA==",
+  "sha256": "260b53e1b61abeaa61e1f2f8f14e785cf365ebecf07224aedc4d8ed2543eab31",
+  "signature": "dkggkm90dZ7QxGIHeoN5Q7ZOEZQVPW+IAQuHtfNW07sfmvWIPz2Bvxkj+GBLJA0Hr+foJGXigZ/dcWbN59tOcw==",
   "notes": "ترقية أمنية v3.5 موقّعة رقمياً (ECDSA P-256)."
 }
