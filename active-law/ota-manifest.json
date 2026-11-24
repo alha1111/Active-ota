@@ -1,7 +1,7 @@
 {
-  "version": "4.1",
+  "version": "4.2",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "c080527aa88a248465b10f98c24942c321859f8c81f385a5c0e5910530b471a7",
-  "signature": "Esb2Dmw2ZFm5RYJ9G4odsVXQC2gC1C4rufFq9rP/0OqJMcwvX4+z+3v3a96hEML2X6xUrQxLutlnEElJ/nt4qA==",
-  "notes": "ترقية أمنية v4.1 موقّعة رقمياً (ECDSA P-256)."
+  "sha256": "0198d58c902bac3d3555cf3e36c2092f19942d43378f5a485f1874a3c020b355",
+  "signature": "h7UqhcBiFcFCwKOiqK0ElvJuGcHQnrYw+UnkTbdL4MxeXwRbCMaldcLwvhrbkfoj3YASXNZ3H+aXuSLO02CYGA==",
+  "notes": "ترقية أمنية v4.2 موقّعة رقمياً (ECDSA P-256)."
 }
