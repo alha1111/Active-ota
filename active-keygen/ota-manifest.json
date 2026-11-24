@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-keygen/active-keygen-ota.zip",
-  "sha256": "8ee96a969134024c03346c67c641f1fcb3d6d9b6944d79d71fd41d55dee9d12e",
-  "signature": "3vFT3vu6fVGoX5jPP4/r0Dys6bzAsMw8qzDBEodH5dgmsTThWqP3oVAROvNdWWTbIOq4a8YRrYtB8vOE5oZt0g==",
-  "notes": "ترقية أمنية v2.0 موقّعة رقمياً (ECDSA P-256)."
+  "sha256": "b85198b0789db19fd36281507161992c834872846872205d965f379eac6a5e76",
+  "signature": "vYY2RSowe4tK4vue07aiKyNVfLnfYNPA3Xkf1ItmeZ0BiMCJo5t8t3YbTI4o7QI2TMXg5uVkEBPUY8qmUdMO6w==",
+  "notes": "ترقية أمنية v2.1 موقّعة رقمياً (ECDSA P-256)."
 }
