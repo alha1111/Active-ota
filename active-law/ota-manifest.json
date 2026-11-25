@@ -1,7 +1,7 @@
 {
-  "version": "5.9",
+  "version": "6.0",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "4a7628e7abf3b37772bbd80cde950fcf631727bd89cf61b6ca4673e9bcdbb5cc",
-  "signature": "JAkg8UR84awipzPyS5b9R7VaNfFNgUV/3MT8DBIcBpSnzEaqwS7xvUMcVELlH54NqRg2VF6pN8/r8hAgvwdRfA==",
-  "notes": "تحديث جديد (الإصدار 5.9) يتضمن تحسينات في الأداء واستقرار النظام."
+  "sha256": "88704a52b8db23fc60190e98247c0aea4c46b3f3b0ff59708fe47f5aa5ad6ece",
+  "signature": "17FbCkyCjtEAc8LVA3wDmL7oO/hKvEFoG6/hTfAbjvXX+rTTH+sCe2zgcmw2OpQVpfflCXB98gPM1mkY5A6vDw==",
+  "notes": "تحديث جديد (الإصدار 6.0) يتضمن تحسينات في الأداء واستقرار النظام."
 }
