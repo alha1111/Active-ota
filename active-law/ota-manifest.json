@@ -1,8 +1,8 @@
 {
-  "version": "7.7.0",
+  "version": "7.8.0",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "e9c2f70747ea6433728bd493bd94bd08aa35d06922aa0bb1ce55836305de5597",
+  "sha256": "f8ced8eed5611d3a8c09607c924ab0f8e5ed2d7b48f1c281d1df280b19f95bd9",
   "size": "0.61 MB",
-  "signature": "U8DYB9ELqtYGgyPawIiJ8W6xarQ6WLPT6XAlCe+fCq2ql2xmunbnF3z5n9a7QlG3RDb2XK72LDO7xJK93D+yUg==",
-  "notes": "• إعادة ضبط الترويسة العلوية لمنع أي تداخل بين الشعار والعنوان وأزرار المظهر والقفل\n• تحويل زر المساعد الذكي إلى أيقونة مربعة واضحة وإعطاء حقل البحث كامل العرض دون قصّ\n• اختصار زر المهام إلى (+ مهمة) في سطر واحد متوازن"
+  "signature": "Y7TldR20rdwoMPabUc/xR/ZlJbH5Sz5ZvZNIoSS/TYpoRcGzOolgSAnNvmsZI42VjdbpKmIh1vdizPF3C8DxRA==",
+  "notes": "• توحيد سُلّم الخطوط وأحجام الأزرار وعناوين الأقسام في سطر واحد متناسق\n• إضافة شريط تمييز لوني علوي راقٍ لبطاقات الإحصائيات الأربع\n• فصل هوية المساعد الذكي (AI) عن مربع البحث مع أيقونة بحث داخلية"
 }
