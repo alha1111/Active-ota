@@ -1,5 +1,7 @@
 {
-  "revocations": {},
-  "updatedAt": 1795721279067,
-  "signature": "jOwS3a3QEeqbVQnBx9LLqF/3aqF/PWW35qu80sm85T5x+xlfJzj1ZA0XCy8CK/Oe29QDKlrsYZfHYuGsM2/hdg=="
+  "revocations": {
+    "active-law::ACT-5752A29E762A3E82": 1795727283185
+  },
+  "updatedAt": 1795727283194,
+  "signature": "Hd0ssUNJKvNcIVLPmbfE2qzBvXvItepWO5kiPVDSPbFljMh3MoLMv/JYrtxCl1Tn/XgsfH5gxmYwhBH73WL+MA=="
 }
