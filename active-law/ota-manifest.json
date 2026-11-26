@@ -1,8 +1,8 @@
 {
-  "version": "7.9.6",
+  "version": "7.9.7",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "f55dd143cc138a6028f1fcfa58037a9326fd21e56608544a2ccc61c7054975ea",
+  "sha256": "e24bcdf11e633944e27cfc7b1f54ce0b13252abc7ec75e390f9e42c6111afbfb",
   "size": "0.61 MB",
-  "signature": "EpN2NUVyKVvw38RYFegEQVxGC/hGgA0zmqPOP93HRKKA+ZquazauoBGpVtzKLSmR5y791PvUEpEw1IOoROI6og==",
+  "signature": "HNuCY5FpfaJlDknEkfsxEps83YgvBcm6m+vCu60Gb8qQ8ql3+aUSKFjuHv57jBm3acAcwa+wVoHP196PvRhf+Q==",
   "notes": "• إعادة هندسة صفحة الإعدادات بقائمة تنفيذية مسطحة وإبراز زر تحديث النظام في المقدمة\n• استبدال جميع الإيموجيات المتبقية بأيقونات SVG هندسية موحدة في كامل التطبيق\n• توحيد سُلّم الخطوط والوضع الليلي في لوحات الإعدادات الفرعية"
 }
