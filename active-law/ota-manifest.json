@@ -1,8 +1,8 @@
 {
-  "version": "7.5.0",
+  "version": "7.6.0",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "b9253d7507a6006f9f57abd4e1a8952bb6ae362855965ece5958967be5dd8998",
+  "sha256": "cd5e582af50be0ca1218e8f50bf8c345ec2ef2ad71f93d9ea55142bcb1be0351",
   "size": "0.61 MB",
-  "signature": "CkGE/gKpLAkAZxpGoE6dqcme5/9Y2prCoiHwMtRGkeT6O7LXV0fDQ1GEEEfFeKL4McFnRCHmhuYrKfpJMaJaFg==",
-  "notes": "• إعادة هندسة الشريط العلوي وتكبير الشعار الحر وتنظيم أزرار المظهر والقفل\n• تصميم زر المساعد الذكي بأسلوب تنفيذي متناسق وعكس أولوية إضافة الموكّل\n• تفعيل الفحص الفوري للتحديثات عند فتح التطبيق مع شريط تنبيه علوي مباشر"
+  "signature": "63IsnTbHc35Wnl3+UevQZnWu4cGk8eWx3C6mz0K3zFs+fXDpJSG8ecfKQWNaa2ZcetJtjhLzB98bPFqx6ruOlA==",
+  "notes": "• إضافة نموذج جدولة جلسات متعددة مباشرةً داخل تبويب الجلسات في الإضبارة\n• إعادة هندسة الوضع الليلي بالكامل بألوان متناسقة وإزالة البطاقات البيضاء الساطعة\n• إصلاح تداخل زر الحذف في الإجراءات واستبدال (+ قيد) بـ (+ إضافة) وتنظيم أزرار الموكّل"
 }
