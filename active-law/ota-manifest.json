@@ -1,8 +1,8 @@
 {
-  "version": "7.9.8",
+  "version": "7.9.9",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "c7df106b414360361a9de41c0cf3c96c8563343ad90b76c54a928945ae874552",
+  "sha256": "accae5a655974c927eb00d8ffbc9eb0b550b75dc6dc98e0aeb3b4f46ae7ed09c",
   "size": "0.61 MB",
-  "signature": "YtWvPQp1kb6fIcj138Sd5HqIX9qeUHJafsq+U9chIAdVosTs1JXyWTfPOZa/skTpbChNRYm99GcCRZo7V0lPyg==",
-  "notes": "• إعادة هندسة صفحة الإعدادات بقائمة تنفيذية مسطحة وإبراز زر تحديث النظام في المقدمة\n• استبدال جميع الإيموجيات المتبقية بأيقونات SVG هندسية موحدة في كامل التطبيق\n• توحيد سُلّم الخطوط والوضع الليلي في لوحات الإعدادات الفرعية"
+  "signature": "hcLDtM/BhYMpV5X6Vwan3rvc56MDDiPGXRyXzfkEDqBnAMunIZDl2f9v9A5fQEavNnZeqtzNVjpJPldzl+4/XA==",
+  "notes": "تحديث v7.9.9:\n- توحيد الترويسة في سطر واحد مدمج مع شارة مدة التفعيل المختصرة.\n- منع تداخل قائمة المظهر والخصوصية مع أيقونات الشريط السفلي."
 }
