@@ -1,8 +1,8 @@
 {
-  "version": "7.2.0",
+  "version": "7.3.0",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "59cc65afaecd76246463829ba8c470f8c33178b8e46455bdbeacad3ec7b59cb3",
+  "sha256": "54021489b90e69d5a611507ff9c9c5e19949072b794f3dba06a0a3306b71b73d",
   "size": "0.61 MB",
-  "signature": "3WjdWwcjDv09gCVCUBYOnkzviovL+nFqEaqvjeJb6a73BGp0a0sSYK7fZ+MYEpFM8p5vyPN1Dslc8Wk42iSYEg==",
+  "signature": "Tygf2CIXguxAqXhX2TbD79l8tpKvqwYWn2FxiG4x27MsyBiigB5+nSZM0/RfYaV3I1LRaD3TgSyT+uYvqPB7HA==",
   "notes": "• تفعيل منظومة الفلاتر الكاملة والعدّادات الحية في الإضبارات والجلسات والأتعاب\n• إضافة فلتر التاريخ المحدد للجلسات وتحسين سرعة الفرز والوصول\n• تطوير واجهة التحديث الهوائي الفوري مع شريط تقدّم حي"
 }
