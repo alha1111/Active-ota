@@ -1,8 +1,8 @@
 {
-  "version": "7.4.0",
+  "version": "7.5.0",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "9880dd6c7c507d9ae094c8e6d22d3e0f90f2d0830bb46310626ed02613b3df0a",
+  "sha256": "b9253d7507a6006f9f57abd4e1a8952bb6ae362855965ece5958967be5dd8998",
   "size": "0.61 MB",
-  "signature": "S7iLzsCTodbOXFF4xvewC5HnrmZ9OHhzyDM/Q3gzkBka5kY6jF63KpG2Kv8bi0CkgvBOAU2eShWp8gztskjnyg==",
-  "notes": "• إعادة هندسة الشاشة الرئيسية بتصميم تنفيذي متوازن ورفع قسم المهام للأعلى\n• توحيد هوية نافذة التحديث الهوائي وشريط التقدّم باللون الأزرق الملكي\n• ربط سجل التحديثات تلقائياً بملف الإصدار وتفعيل بطاقات المتابعة التفاعلية"
+  "signature": "CkGE/gKpLAkAZxpGoE6dqcme5/9Y2prCoiHwMtRGkeT6O7LXV0fDQ1GEEEfFeKL4McFnRCHmhuYrKfpJMaJaFg==",
+  "notes": "• إعادة هندسة الشريط العلوي وتكبير الشعار الحر وتنظيم أزرار المظهر والقفل\n• تصميم زر المساعد الذكي بأسلوب تنفيذي متناسق وعكس أولوية إضافة الموكّل\n• تفعيل الفحص الفوري للتحديثات عند فتح التطبيق مع شريط تنبيه علوي مباشر"
 }
