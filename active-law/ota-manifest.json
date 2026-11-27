@@ -1,8 +1,8 @@
 {
   "version": "8.0.8",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-law/active-law-ota.zip",
-  "sha256": "3ecae089f096e3cdc2527cbd32dc3b40c88c8009179e25865feb2d292f21e554",
-  "size": "0.62 MB",
-  "signature": "zvcwdxTswIDAqyBRqDQcovSILDWHmi0w2veHM5I3Yptnv6TGwn+9La5hq2C2QDAH3p/hThJiKUnf5sER5jfVhQ==",
+  "sha256": "0a2413bada609d71c1516dad7e7a883c3e8e2d9c8b2f3c0db54d62ab8c6df8d4",
+  "size": "0.63 MB",
+  "signature": "iL8P9jN0HU4G99wqGuJP4J5kTwPfZixWk6f8t1twuRt8flShzALa8V8JWTpb8T/dTzTkud8HtDtLK2M4nHWk9g==",
   "notes": "تحديث v7.9.9:\n- توحيد الترويسة في سطر واحد مدمج مع شارة مدة التفعيل المختصرة.\n- منع تداخل قائمة المظهر والخصوصية مع أيقونات الشريط السفلي."
 }
