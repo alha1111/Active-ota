@@ -1,8 +1,8 @@
 {
   "version": "1.5.2",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-study/active-study-ota.zip",
-  "sha256": "7ae1c66427116dc97c542823498c017be7b673ef117a5ff1c319af907c034628",
+  "sha256": "40b5603b1cc36a8f7df072ca6627201a47f54d9816f1534d744522cc689a8335",
   "size": "0.52 MB",
-  "signature": "qlO+GWQG1UnPh5lQyB5V0/3ghX/0061WRJX94YqLFjjutIKDSg8p/IxT+Kizky+Q68ED7XVRtyQnU+6Z7y3UGw==",
-  "notes": "• اختبار مباشر لنظام التحديث الهوائي الموقّع v1.5.2\n• تأكيد وصول التحديث وتثبيته دون إعادة تثبيت APK"
+  "signature": "jF5ciO0+4TvPqJe06eSQZlu+hArfLdZd5hNCD3hixlkH6xOFZy+ExFOWeh+VMfVhut28Tr0G4D9GZe6AaYW6Tw==",
+  "notes": "• تفعيل فحص التحديثات الهوائية الفوري v1.5.2\n• تحسين استجابة أزرار الإعدادات والتحديث"
 }
