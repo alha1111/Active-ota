@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-study/active-study-ota.zip",
-  "sha256": "57d4dc79c11064266ed7835e1f3e8c22c2a5f77e8a9a9366e8e71c689e394f6a",
+  "sha256": "53c30994332e1fe657ef1133049e6064a7619d317f337980f9dcbcfa68a674c4",
   "size": "0.52 MB",
-  "signature": "vUeg1b/lRoMQmL7PWom4sWF5irc7vRPWYCwBbtL05DJ5b+4dR9hMuN52WI/DpiVeildv/sosX26wZ49E+l+SjA==",
-  "notes": "تحسينات في الأداء والتفريغ والواجهة"
+  "signature": "5EpX+9h8bvFFYubm6fExp/LJ13ifJFC8By8Aq075NH2vLUEYkAQVsb39rQG06NJSNepADc2vwQAB1mmMUawaeA==",
+  "notes": "• تأمين إعدادات الطالب وإخفاء الروابط التقنية\n• تحسين سرعة الاستجابة وتنسيق قارئ المحاضرات\n• تفعيل نظام التحديث الهوائي الفوري"
 }
