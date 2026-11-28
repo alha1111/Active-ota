@@ -1,8 +1,8 @@
 {
-  "version": "1.5.9",
+  "version": "1.6.0",
   "url": "https://active-octa.aalliiee81997.workers.dev/active-study/active-study-ota.zip",
-  "sha256": "4c76b4511136ab151e5ef1c5092fe8b3c5910dd501bd0ee9685529451094a66e",
+  "sha256": "0d87508a91145ad9bb6596680c304c4315b75c83087f1c7fee9d4646a939867f",
   "size": "0.52 MB",
-  "signature": "zqVGHMx4+Du2xRASInVgUGeyCZElmGnZ6g+OAd9iIe8vGrpwQjpAVq9xKQiAoU2+23xoEibdY8wpEApY0T03LQ==",
+  "signature": "LZQWs7mi01v8MQFSKbMtca7xa+n3FYH3o/4ZyIF7Kt4sBsCQE/Ln6iIRGT2EV9HZPHiiTeyYbF+3Vbf3kQfYtw==",
   "notes": "• تفعيل فحص التحديثات الهوائية الفوري v1.5.2\n• تحسين استجابة أزرار الإعدادات والتحديث"
 }
